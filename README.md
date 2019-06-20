@@ -64,16 +64,4 @@ Steps to implement:
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/chaitubhure/HARRISON_tagprediction/blob/master/LICENSE) file for details
-
-### Acknowledgments
-
-* The dataset
-```
-@misc{HARRISON16,
-Author = {Minseok Park and Hanxiang Li and Junmo Kim},
-Title = {HARRISON: A Benchmark on HAshtag Recommendation for Real-world Images in Social Networks},
-Year = {2016},
-Eprint = {arXiv:1605.05054},
-}
-```
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/chaitubhure/Options-Writing-Predictions/blob/master/LICENSE) file for details
