@@ -56,7 +56,7 @@ Steps to implement:
 
 ### High Level View of the Model and Working
 
-![Overview of the model](https://github.com/chaitubhure/HARRISON_tagprediction/blob/master/Overview%20of%20the%20model.png)
+![Overview of the model](https://github.com/chaitubhure/Options-Writing-Predictions/blob/master/Overviewofmodel.png)
 
 ### Authors
 
